@@ -1,5 +1,5 @@
 **PhantomCrypt-FUD**
-🟪WELCOME TO PHANTOMCRYPT: CONTRIBUTE IF YOU HAVE MORE IDEAS!🟪
+
 PhantomCrypt is a next-gen, fully undetectable (FUD) crypter designed to outsmart all antivirus solutions on Windows.
 
 ⚠️Note: Sharing this tool without proper attribution to this repository is strictly prohibited. Unauthorized distribution will not be tolerated.⚠️
@@ -68,8 +68,9 @@ PhantomCrypt employs sophisticated AES256 and XOR encryption techniques to obfus
        |   (Stage 2)     |
        +-----------------+
 ```
-
-Key Features
+----
+**Key Features**
+----
 Multi-stage payloads
 Full undetectability (macOS support coming soon)
 Masquerades as official apps (e.g., Microsoft, ExpressVPN)
@@ -79,8 +80,10 @@ Rootkit-like behavior
 Unique backdoors for each execution
 ngrok support for easy remote access
 License
+---
 This project is licensed under the MIT License – see the LICENSE file for more details.
-
+----
 Disclaimer
-⚠️WARNING: USE PHANTOMCRYPT RESPONSIBLY⚠️
+----
+**⚠️WARNING: USE PHANTOMCRYPT RESPONSIBLY⚠️**
 This tool is intended for educational purposes only. Users are solely responsible for compliance with local, state, and federal laws. The developers are not liable for any misuse or damage caused by this software.
