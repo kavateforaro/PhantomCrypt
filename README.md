@@ -1,17 +1,19 @@
-PhantomCrypt-FUD
+**PhantomCrypt-FUD**
 🟪**WELCOME TO PHANTOMCRYPT: CONTRIBUTE IF YOU HAVE MORE IDEAS!**🟪
 PhantomCrypt is a next-gen, fully undetectable (FUD) crypter designed to outsmart all antivirus solutions on Windows.
 
 ⚠️Note: Sharing this tool without proper attribution to this repository is strictly prohibited. Unauthorized distribution will not be tolerated.⚠️
 
-➡️Closed Source for Security: To prevent unauthorized use and commercialization, PhantomCrypt is not open source.⬅️
+➡️**Closed Source for Security: To prevent unauthorized use and monetization, PhantomCrypt is open source.**⬅️
 
-Overview
+**Overview**
+----
 PhantomCrypt is engineered to be a fully undetectable crypter that seamlessly bypasses all antivirus systems. I maintain regular updates to the stub, ensuring it stays FUD. In return for my ongoing effort, please refrain from uploading the tool to VirusTotal or similar platforms. Let's work together to keep PhantomCrypt the only FUD crypter available on GitHub.
 
 Initially crafted for personal use, PhantomCrypt has been simplified to make it accessible to a wider audience. It’s user-friendly, pre-compiled, and primarily supports Windows. I plan to release the source code for potential modifications on Linux (currently incompatible with Wine).
 
-Installation & Usage
+**Installation & Usage**
+----
 Important: Disable Windows Defender or any active antivirus before proceeding!
 
 Download: [Download PhantomCrypt]
@@ -22,7 +24,8 @@ Crypt: Click "ENCRYPT NOW" and wait a few moments for the process to complete. Y
 How It Works
 PhantomCrypt employs sophisticated AES256 and XOR encryption techniques to obfuscate your file’s bytes. The encrypted data is held in memory and decrypted only at runtime, ensuring it remains undetectable.
 
-Conceptual Flow
+# Conceptual Flow
+```
        +-----------------+
        |   Created File  |
        +-----------------+
@@ -64,7 +67,7 @@ Conceptual Flow
        |    Payload      |
        |   (Stage 2)     |
        +-----------------+
-
+```
 
 Key Features
 Multi-stage payloads
