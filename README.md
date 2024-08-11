@@ -1,5 +1,5 @@
 **PhantomCrypt-FUD**
-🟪**WELCOME TO PHANTOMCRYPT: CONTRIBUTE IF YOU HAVE MORE IDEAS!**🟪
+🟪WELCOME TO PHANTOMCRYPT: CONTRIBUTE IF YOU HAVE MORE IDEAS!🟪
 PhantomCrypt is a next-gen, fully undetectable (FUD) crypter designed to outsmart all antivirus solutions on Windows.
 
 ⚠️Note: Sharing this tool without proper attribution to this repository is strictly prohibited. Unauthorized distribution will not be tolerated.⚠️
