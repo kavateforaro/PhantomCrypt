@@ -4,7 +4,7 @@ PhantomCrypt is a next-gen, fully undetectable (FUD) crypter designed to outsmar
 
 ⚠️Note: Sharing this tool without proper attribution to this repository is strictly prohibited. Unauthorized distribution will not be tolerated.⚠️
 
-➡️**Closed Source for Security: To prevent unauthorized use and monetization, PhantomCrypt is open source.**⬅️
+➡️**Open Source for Security: To prevent unauthorized use and monetization, PhantomCrypt is open source.**⬅️
 
 **Overview**
 ----
